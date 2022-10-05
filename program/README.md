@@ -12,7 +12,7 @@ layout: editorial
 **All times are in Beijing time (UTC+8).**\
 Check your local time here: [everytimezone.com](https://everytimezone.com/)
 
-View full paper abstracts [here](papers.md)\
+View full paper abstracts [here](papers/)\
 View abstract-only abstracts [here](abstract-only.md)\
 View advance video presentations [here](https://vimeo.com/showcase/istvs2022)
 
