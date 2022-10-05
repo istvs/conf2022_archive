@@ -2,6 +2,7 @@
 
 * [11th Asia-Pacific Regional Conference of the ISTVS](README.md)
 * [Details](details.md)
+* [Program](program.md)
 * [Submissions](submissions.md)
 * [Registration](registration.md)
 * [Sponsors](sponsors.md)
