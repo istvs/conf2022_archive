@@ -2,7 +2,7 @@
 description: George Mason, Ethan Salman, Shiraz Mujahid
 ---
 
-# 0303 | Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam
+# 0303 / Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam
 
 [https:/doi.org/10.56884/VCIX2361](https://https/doi.org/10.56884/VCIX2361)
 

@@ -7,7 +7,7 @@
 * [Registration](registration.md)
 * [Sponsors](sponsors.md)
 * [Papers](program/papers.md)
-  * [0303 | Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam](papers/0303-or-composite-beam-tests-with-closed-cell-polyurethane-and-aluminum-foam.md)
+  * [0303 / Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam](papers/0303-composite-beam-tests-with-closed-cell-polyurethane-and-aluminum-foam.md)
   * [Page 2](papers/page-2.md)
   * [Page 3](papers/page-3.md)
   * [Page 4](papers/page-4.md)
