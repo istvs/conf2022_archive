@@ -2,5 +2,5 @@
 description: Full paper submissions
 ---
 
-# Papersz
+# Papers
 
