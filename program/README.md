@@ -2,7 +2,6 @@
 description: >-
   ISTVS - Proceedings of the 20th International and 9th Americas Conference of
   the ISTVS | Program
-layout: editorial
 ---
 
 # Program
