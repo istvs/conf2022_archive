@@ -4,7 +4,7 @@ description: Paper presented at the 11th Asia-Pacific Regional Conference of the
 
 # 1561 / Prominent Problems and Thoughts of "Paddy Soil-Terrain Machine System" \[...]
 
-[https:/doi.org/10.56884/CHSD4959](https://https/doi.org/10.56884/CHSD4959)
+https:/doi.org/10.56884/CHSD4959
 
 Title: Prominent problems and thoughts of "paddy soil-terrain machine system" based on disturbed saturated paddy soil conditions in South China
 
