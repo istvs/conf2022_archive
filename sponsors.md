@@ -99,3 +99,8 @@ IBAN: DE69500105175413479131\
 BIC: INGDDEFFXXX\
 Bank name: ING Diba, Frankfurt, Germany\
 Account holder: ISTVS, Lutz Richter
+
+
+
+\--\
+© 2022 International Society for Terrain-Vehicle Systems :: [www.istvs.org](https://www.istvs.org)

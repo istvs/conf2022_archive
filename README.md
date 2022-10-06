@@ -103,3 +103,8 @@ Since its founding in 1920, HIT has been well-known as the cradle of engineers t
 ![Skyline, Harbin Institute of Technology, China](https://images.squarespace-cdn.com/content/v1/542f394be4b0b9e132ee7b1a/bdcc2d50-bc4d-4fff-8cb3-d0272e7391a9/harbin-headstone\_edit.jpeg?format=1500w)
 
 Skyline, Harbin Institute of Technology
+
+
+
+\--\
+© 2022 International Society for Terrain-Vehicle Systems :: [www.istvs.org](https://www.istvs.org)
