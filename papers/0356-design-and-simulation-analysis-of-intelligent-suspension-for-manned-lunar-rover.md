@@ -2,7 +2,7 @@
 description: Paper presented at the 11th Asia-Pacific Regional Conference of the ISTVS
 ---
 
-# 0303 / Design and Simulation Analysis of Intelligent Suspension for Manned Lunar Rover
+# 0356 / Design and Simulation Analysis of Intelligent Suspension for Manned Lunar Rover
 
 Authors: Tao Li, Chongfeng Zhang, Weijun Wang, and Junwei Shi
 
