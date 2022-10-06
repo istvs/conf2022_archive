@@ -4,7 +4,9 @@ description: Paper presented at the 11th Asia-Pacific Regional Conference of the
 
 # Page 12
 
+Authors:&#x20;
 
+Abstract:&#x20;
 
 Order the full paper: [https://www.istvs.org/proceedings-orders/paper](https://www.istvs.org/proceedings-orders/paper)
 
