@@ -8,7 +8,7 @@
 * [Sponsors](sponsors.md)
 * [Papers](program/papers.md)
   * [0303 / Composite Beam Tests with Closed Cell Polyurethane and Aluminum Foam](papers/0303-composite-beam-tests-with-closed-cell-polyurethane-and-aluminum-foam.md)
-  * [Page 2](papers/page-2.md)
+  * [0303 / Design and Simulation Analysis of Intelligent Suspension for Manned Lunar Rover](papers/0303-design-and-simulation-analysis-of-intelligent-suspension-for-manned-lunar-rover.md)
   * [Page 3](papers/page-3.md)
   * [Page 4](papers/page-4.md)
   * [Page 5](papers/page-5.md)
