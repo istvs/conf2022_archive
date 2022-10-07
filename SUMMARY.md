@@ -40,7 +40,7 @@
   * [6316 / Perceptive Locomotion of Legged Robot Coupling Model Predictive Control and Terrain Mapping](papers/page-31.md)
   * [6718 / Research on Vehicle Running Performance on Paved Roads Covered with Falling Volcanic Ash](papers/page-32.md)
   * [6796 / Nonparametric Terrain Estimation Based on the Interaction Simulation Between Planetary \[...\]](papers/6796.md)
-  * [7018 / Title](papers/page-34.md)
+  * [7018 / A Review of Modeling and Validation Techniques for Tire-Deformable Soil Interactions](papers/page-34.md)
   * [Page 35 / 7092](papers/page-35.md)
   * [Page 36 / 7199](papers/page-36.md)
   * [Page 37 / 7233](papers/page-37.md)
