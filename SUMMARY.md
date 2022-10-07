@@ -53,4 +53,4 @@
   * [Page 44 / 9352](papers/page-44.md)
   * [Page 45 / 9768](papers/page-45.md)
   * [Page 46 / 9913](papers/page-46.md)
-* [Abstract-only](program/abstract-only.md)
+* [Abstract-only submissions](program/abstract-only.md)

@@ -13,7 +13,7 @@ Check your local time here: [everytimezone.com](https://everytimezone.com/)
 
 View full paper abstracts [here](papers.md)\
 View abstract-only abstracts [here](abstract-only.md)\
-View advance video presentations [here](https://vimeo.com/showcase/istvs2022)
+View advance video presentations [here](https://vimeo.com/showcase/istvs2022) _(password available to attendees)_
 
 ### Monday, September 26, 2022
 
