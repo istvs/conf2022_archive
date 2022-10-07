@@ -1,5 +1,7 @@
 ---
 description: Abstract-only submissions to the 11th ISTVS Asia-Pacific Regional Conference
+cover: ../.gitbook/assets/istvs_terrain.jpeg
+coverY: 0
 ---
 
 # Abstract-only submissions

@@ -2,6 +2,8 @@
 description: >-
   ISTVS - Proceedings of the 20th International and 9th Americas Conference of
   the ISTVS | Program
+cover: ../.gitbook/assets/istvs_terrain.jpeg
+coverY: 0
 ---
 
 # Program
@@ -13,7 +15,7 @@ Check your local time here: [everytimezone.com](https://everytimezone.com/)
 
 View full paper abstracts [here](papers.md)\
 View abstract-only abstracts [here](abstract-only.md)\
-View advance video presentations [here](https://vimeo.com/showcase/istvs2022)
+View advance video presentations [here](https://vimeo.com/showcase/istvs2022) _(password available to attendees)_
 
 ### Monday, September 26, 2022
 
