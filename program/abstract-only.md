@@ -4,7 +4,9 @@ description: Abstract-only submissions to the 11th ISTVS Asia-Pacific Regional C
 
 # Abstract-only submissions
 
-_The repository of conference recordings is: https://vimeo.com/showcase/istvs2022. The password for the repository was sent by email to registered attendees._&#x20;
+_The repository of conference recordings is: https://vimeo.com/showcase/istvs2022. The password for the repository was sent by email to registered attendees._
+
+__
 
 ### 0196 / Analysis on Climbing Mode of Zhurong Rover
 
