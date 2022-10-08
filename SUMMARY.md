@@ -29,7 +29,7 @@
   * [4409 / Design of Self-Driving Bulldozer System](papers/page-20.md)
   * [4744 / Terrain Classification Using Mars Raw Images Based on Deep Learning Algorithms \[...\]](papers/page-21.md)
   * [4774 / Steadily Learn to Drive with Virtual Memory](papers/page-22.md)
-  * [4782 / Experimental Study of Track-Soil Interactions of the Steering Performance of Tracked \[...\]](papers/page-23.md)
+  * [4782 / Experimental Study of Track-Soil Interactions of the Steering Performance of Tracked \[...\]](papers/4782.md)
   * [4812 / Multi-Fidelity Machine Learning Modeling for Wheeled Locomotion on Soft Soil](papers/page-24.md)
   * [4827 / Introducing Polibot: A High Mobility Tracked Robot with Innovative Passive Suspensions](papers/page-25.md)
   * [5060 / Bionic Quadruped Robot for Mars Surface Exploration](papers/page-26.md)
