@@ -6,6 +6,8 @@ coverY: 0
 
 # 11th Asia-Pacific Regional Conference of the ISTVS
 
+<figure><img src=".gitbook/assets/Harbin 2022 not CFP - Social 1280×640.png" alt=""><figcaption></figcaption></figure>
+
 ## ISTVS conferences form an amazing legacy since our first meeting in 1962
 
 Today the International Society for Terrain-Vehicle Systems is a connected group of collaborative professionals from industry, universities, and research institutions who have been meeting over five decades to share research findings.
