@@ -11,7 +11,7 @@
   * [0356 / Design and Simulation Analysis of Intelligent Suspension for Manned Lunar Rover](papers/0356-nu.md)
   * [0861 / Review of the Reconfigurable Wheel-Tracked System](papers/0861-review-on-the-reconfigurable-wheel-tracked-system.md)
   * [0963 / A Wheel and Vehicle Mobility Index Based on Traction and Velocity \[...\]](papers/a-wheel-and-vehicle-mobility-index-based-on-traction-and-velocity-for-optimization-of-mobility-perfo.md)
-  * [1128 / Semi-Active Reinforcement Learning Suspension Control for the Off-Road Vehicles](papers/1128-nu.md)
+  * [1128 / Semi-Active Reinforcement Learning Suspension Control for the Off-Road Vehicles](papers/1128.md)
   * [1491 / Design and Verification of a Creeping Mars Rover](papers/page-6.md)
   * [1534 / Foothold Selection Considering Constraint and Slippage Evaluation for Legged Robots](papers/page-7.md)
   * [1561 / Prominent Problems and Thoughts of "Paddy Soil-Terrain Machine System" \[...\]](papers/1561-prominent-problems-and-thoughts-of-paddy-soil-terrain-machine-system-....md)
