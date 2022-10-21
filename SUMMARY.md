@@ -14,7 +14,7 @@
   * [1128 / Semi-Active Reinforcement Learning Suspension Control for the Off-Road Vehicles](papers/page-5.md)
   * [1491 / Design and Verification of a Creeping Mars Rover](papers/page-6.md)
   * [1534 / Foothold Selection Considering Constraint and Slippage Evaluation for Legged Robots](papers/page-7.md)
-  * [1561 / Prominent Problems and Thoughts of "Paddy Soil-Terrain Machine System" \[...\]](papers/1561-nu.md)
+  * [1561 / Prominent Problems and Thoughts of "Paddy Soil-Terrain Machine System" \[...\]](papers/1561-prominent-problems-and-thoughts-of-paddy-soil-terrain-machine-system-....md)
   * [1655 / Modeling of Lunar Rover Vehicle Wheel-Soil Interaction Using Fem-Dem Method](papers/1655.md)
   * [2034 / A Comprehensive Lumped Parameter Approach for the Dynamic Simulation \[...\]](papers/2034.md)
   * [2149 / Investigation of the Shear Stress Dynamics on Silty Loam Soil and Measurement \[...\]](papers/2149.md)
